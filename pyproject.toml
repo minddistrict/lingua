@@ -25,6 +25,7 @@ classifiers = [
 dependencies = [
     "polib >= 1.1.1",
     "click >= 8.0.3",
+    "setuptools",
 ]
 
 [project.optional-dependencies]
